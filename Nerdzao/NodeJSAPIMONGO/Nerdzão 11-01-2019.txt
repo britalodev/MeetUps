@@ -1,0 +1,20 @@
+﻿Node usa V8 para interpretar no Back-End
+
+Google Chrome usa o V8 como interpretador de JavaScript
+
+EXPRESS como gerencidor de ROTAS
+
+Rest = Obrigatóriamente arquivos JSON
+
+npm install express
+npm install @types/express -D
+npm install request
+npm install @types/request -D
+npm install body-parser
+npm install @types/body-parser -D
+npm install mongoose
+npm install @types/mongoose -D
+npm install ts-node
+npm install @types/ts-node -D
+npm install typescript
+npm install @types/typescript -D
